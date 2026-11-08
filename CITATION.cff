@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "A Layered Decentralized Architecture for Election Integrity: Exact Tallies, Tamper-Evident Custody, and a Hyperdimensional Shadow Check"
+authors:
+  - family-names: "Krzan"
+    given-names: "Mark"
+version: 2.0.0
+date-released: 2026-11-08
+license: CC-BY-4.0
