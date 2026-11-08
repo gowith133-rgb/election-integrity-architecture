@@ -4,9 +4,8 @@
 
 **Mark Krzan** — Version 2.0, November 2026
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24050412.svg)](https://doi.org/10.5281/zenodo.24050412)
 
-> DOI badge placeholder — replaced with the live DOI once the Zenodo deposit is published and verified.
 
 ## Abstract
 
@@ -30,7 +29,7 @@ Version 1 of this paper (an HDC-only design) was withdrawn after technical revie
 
 ## Citation
 
-Krzan, M. (2026). *A Layered Decentralized Architecture for Election Integrity: Exact Tallies, Tamper-Evident Custody, and a Hyperdimensional Shadow Check* (Version 2.0). Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+Krzan, M. (2026). *A Layered Decentralized Architecture for Election Integrity: Exact Tallies, Tamper-Evident Custody, and a Hyperdimensional Shadow Check* (Version 2.0). Zenodo. https://doi.org/10.5281/zenodo.24050412
 
 ## License
 
